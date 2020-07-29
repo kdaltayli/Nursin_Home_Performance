@@ -1,6 +1,4 @@
-# Project_Nursing_Home
-This is my first group project in DataScience BootCamp. We analyzed Nursing Homes across US
-
+<<<<<<< HEAD
 ##### Rutgers Data Visualization Bootcamp Project 1
 ##### Nursing Home Quality Analysis
 =======
@@ -40,3 +38,7 @@ This is my first group project in DataScience BootCamp. We analyzed Nursing Home
     https://data.cms.gov/Special-Programs-Initiatives-COVID-19-Nursing-Home/COVID-19-Nursing-Home-Dataset/s2uc-8wxp/data
     https://www.prb.org/which-us-states-are-the-oldest/
     
+
+
+   
+>>>>>>> RN_NewBranch
